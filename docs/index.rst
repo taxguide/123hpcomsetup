@@ -134,6 +134,10 @@ For offices and business environments, some HP printers also include an Ethernet
 
 Why HP Smart Makes Setup Easier
 -------------------------------
+.. image:: _static/hp-smart-app.jpg
+   :alt: HP Smart App
+   :align: center
+   :width: 700px
 
 HP Smart has become one of the most useful tools included with modern HP printers. Instead of installing separate software for printing, scanning, firmware updates, and diagnostics, HP Smart combines everything into one application.
 
