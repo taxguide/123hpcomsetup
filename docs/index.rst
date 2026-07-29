@@ -151,8 +151,7 @@ Keeping your printer software updated provides several advantages.
 Using outdated printer software can lead to printing errors and connection problems.
 
 Install HP Printer on Windows, Mac, Android, and iPhone
-=======================================================
-
+-------------------------------------------------------
 After downloading the latest printer software from **123.hp.com/setup**, the next step is installing your HP printer and connecting it to your preferred device. HP printers are compatible with Windows, macOS, Android, and iPhone, allowing you to print, scan, and manage documents from almost anywhere.
 
 Although the installation process is simple, following the correct setup method helps prevent common issues such as driver installation failures, printer detection problems, and wireless connection errors.
@@ -356,8 +355,7 @@ Following these recommendations helps ensure a successful setup.
 * Use genuine HP ink or toner cartridges.
 
 Troubleshooting Common HP Printer Problems
-==========================================
-
+-------------------------------------------------------
 Even after completing the installation through **123.hp.com/setup**, you may occasionally experience issues such as your printer appearing offline, failing to connect to Wi-Fi, or not being detected by your computer. Most of these problems can be resolved by checking your printer settings, updating the latest drivers, and ensuring both your printer and device are connected correctly.
 
 This section explains the most common HP printer issues and the best ways to fix them.
