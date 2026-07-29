@@ -1,29 +1,16 @@
-/* Make the page use the full browser width */
-div.document {
-    width: 95% !important;
-    max-width: 1800px !important;
-    margin: 0 auto !important;
-}
-
-/* Main content */
-div.body {
-    max-width: none !important;
+/* Make the content area wider */
+.wy-nav-content {
+    max-width: 1400px !important;
     width: 100% !important;
 }
 
-/* Content wrapper */
-div.documentwrapper {
-    width: calc(100% - 230px) !important;
-    float: right !important;
-}
-
-/* Sidebar */
-div.sphinxsidebar {
-    width: 220px !important;
-}
-
-/* Images */
-div.body img {
-    max-width: 100% !important;
+/* Make images full width */
+.wy-nav-content img {
+    width: 100%;
     height: auto;
+}
+
+/* Reduce side padding */
+.wy-nav-content {
+    padding: 1.5em 2em !important;
 }
