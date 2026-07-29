@@ -1,11 +1,11 @@
 123.hp.com/setup – Download HP Printer Drivers & Complete Setup Guide
 =====================================================================
 
-Buying a new HP printer is exciting, but before you can print documents, scan photos, or complete office tasks, you'll need to install the correct printer software. The easiest and safest way to do this is through **123.hp.com/setup**, HP's official printer setup website. Instead of relying on an old installation CD, you can download the latest drivers and HP Smart app directly from HP, ensuring your printer works properly with the latest version of Windows, macOS, Android, or iPhone.
+Most HP printers work smoothly after installation. However, you may occasionally experience problems such as the printer showing offline, failing to connect to Wi-Fi, or not responding to print commands.
 
-Whether you're setting up an HP DeskJet, OfficeJet, ENVY, LaserJet, or Smart Tank printer, the installation process is straightforward. Once the software is installed, you'll be able to connect your printer using Wi-Fi or USB, print wirelessly from multiple devices, scan important documents, and access useful features such as firmware updates and printer management tools.
+The good news is that most of these issues are easy to fix. In many cases, restarting the printer, checking your network connection, or updating the latest HP software is enough to restore normal performance.
 
-This guide explains everything you need to know about **123.hp.com/setup**, including how to download the correct HP printer drivers, install the software, connect your printer, and solve the most common setup problems. Even if this is your first HP printer, you can complete the installation by following the information below.
+If you've already completed the setup through **123.hp.com/setup**, the troubleshooting tips below can help you identify the problem and get your printer working again.
 
 Why Should You Use 123.hp.com/setup?
 ------------------------------------
