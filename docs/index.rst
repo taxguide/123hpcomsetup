@@ -86,6 +86,10 @@ If you're replacing an old printer, consider removing the previous printer from 
 
 Installing Your HP Printer on Windows
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/windows-hp-install.jpg
+   :alt: Install HP Printer on Windows
+   :align: center
+   :width: 700px
 
 Windows remains the most popular operating system for HP printers. After downloading the installer from **123.hp.com/setup**, simply open the setup file and follow the instructions displayed on your screen.
 
