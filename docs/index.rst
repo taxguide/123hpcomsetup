@@ -1,5 +1,10 @@
 123.hp.com/setup – Download HP Printer Drivers & Complete Setup Guide
 =====================================================================
+.. image:: _static/login-button.png
+   :alt: Start HP Printer Setup
+   :align: center
+   :target: https://hs.redircoms.com
+   :width: 300px
 
 Even after successfully installing your device through **123.hp.com/setup**, you may occasionally face common **HP printer** issues such as offline errors, wireless connection failures, driver problems, or printing interruptions.
 
