@@ -1,11 +1,11 @@
 123.hp.com/setup – Download HP Printer Drivers & Complete Setup Guide
 =====================================================================
 
-Most HP printers work smoothly after installation. However, you may occasionally experience problems such as the printer showing offline, failing to connect to Wi-Fi, or not responding to print commands.
+Most HP printers work reliably after setup. However, you may sometimes face issues like offline errors, Wi-Fi connection problems, or failed print jobs.
 
-The good news is that most of these issues are easy to fix. In many cases, restarting the printer, checking your network connection, or updating the latest HP software is enough to restore normal performance.
+Fortunately, these problems are usually easy to fix. A quick restart, a stable network connection, or the latest HP software often resolves the issue.
 
-If you've already completed the setup through **123.hp.com/setup**, the troubleshooting tips below can help you identify the problem and get your printer working again.
+If your printer still isn't working properly, try the troubleshooting steps below to restore normal printing.
 
 .. image:: _static/hp-printer-setup-guide.jpg
    :alt: 123 HP Printer Setup Guide
