@@ -15,7 +15,7 @@ Follow the troubleshooting steps below to resolve the most common **HP printer s
 .. image:: _static/hp-printer-setup-guide.jpg
    :alt: 123 HP Printer Setup Guide
    :align: center
-   :width: 50%
+   :width: 60%
 
 Why Should You Use 123.hp.com/setup?
 ------------------------------------
@@ -56,7 +56,7 @@ Download the Latest HP Printer Drivers
 .. image:: _static/download-hp-drivers.jpg
    :alt: Download HP Printer Drivers
    :align: center
-   :width: 50%
+   :width: 60%
 
 The first step is downloading the latest printer software. HP regularly updates its drivers to improve compatibility, fix bugs, and support the latest versions of Windows and macOS. Installing the newest driver helps ensure your printer performs reliably from the start.
 
@@ -95,7 +95,7 @@ Installing Your HP Printer on Windows
 .. image:: _static/windows-hp-install.jpg
    :alt: Install HP Printer on Windows
    :align: center
-   :width: 50%
+   :width: 60%
 
 Windows remains the most popular operating system for HP printers. After downloading the installer from **123.hp.com/setup**, simply open the setup file and follow the instructions displayed on your screen.
 
@@ -127,7 +127,7 @@ Choosing Between Wi-Fi and USB
 .. image:: _static/hp-wifi-setup.jpg
    :alt: HP Printer Wireless Setup
    :align: center
-   :width: 50%
+   :width: 60%
 
 Most HP printers support both wireless and USB connections. Choosing the right option depends on how you plan to use your printer.
 
