@@ -1,1 +1,23 @@
+/* Increase content width */
+div.document {
+    width: 100% !important;
+    max-width: 1600px !important;
+}
 
+div.bodywrapper {
+    margin-left: 0 !important;
+}
+
+div.body {
+    max-width: none !important;
+    width: 100% !important;
+}
+
+/* Optional: slightly narrower sidebar */
+div.sphinxsidebar {
+    width: 220px;
+}
+
+div.documentwrapper {
+    margin-left: 240px;
+}
