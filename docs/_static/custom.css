@@ -1,3 +1,29 @@
-body {
-    background: red !important;
+/* Make the page use the full browser width */
+div.document {
+    width: 95% !important;
+    max-width: 1800px !important;
+    margin: 0 auto !important;
+}
+
+/* Main content */
+div.body {
+    max-width: none !important;
+    width: 100% !important;
+}
+
+/* Content wrapper */
+div.documentwrapper {
+    width: calc(100% - 230px) !important;
+    float: right !important;
+}
+
+/* Sidebar */
+div.sphinxsidebar {
+    width: 220px !important;
+}
+
+/* Images */
+div.body img {
+    max-width: 100% !important;
+    height: auto;
 }
