@@ -86,6 +86,7 @@ If you're replacing an old printer, consider removing the previous printer from 
 
 Installing Your HP Printer on Windows
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: _static/windows-hp-install.jpg
    :alt: Install HP Printer on Windows
    :align: center
@@ -117,6 +118,11 @@ Many HP printers also support Apple AirPrint, allowing iPhone and iPad users to 
 
 Choosing Between Wi-Fi and USB
 ------------------------------
+
+.. image:: _static/hp-wifi-setup.jpg
+   :alt: HP Printer Wireless Setup
+   :align: center
+   :width: 700px
 
 Most HP printers support both wireless and USB connections. Choosing the right option depends on how you plan to use your printer.
 
