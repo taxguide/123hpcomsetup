@@ -48,6 +48,10 @@ If you plan to use a wireless connection, place your printer close to your Wi-Fi
 
 Download the Latest HP Printer Drivers
 --------------------------------------
+.. image:: _static/download-hp-drivers.jpg
+   :alt: Download HP Printer Drivers
+   :align: center
+   :width: 700px
 
 The first step is downloading the latest printer software. HP regularly updates its drivers to improve compatibility, fix bugs, and support the latest versions of Windows and macOS. Installing the newest driver helps ensure your printer performs reliably from the start.
 
