@@ -9,19 +9,20 @@ If you've already completed the setup through **123.hp.com/setup**, the troubles
 
 Why Should You Use 123.hp.com/setup?
 ------------------------------------
+Using **123.hp.com/setup** offers several advantages for HP printer users.
 
-Why Should You Use 123.hp.com/setup?
-------------------------------------
+* Download the latest HP printer drivers.
+* Install the official HP Smart app.
+* Get software designed for your printer model.
+* Set up your printer using Wi-Fi or USB.
+* Improve compatibility with Windows and macOS.
+* Receive the latest firmware updates.
+* Fix common driver and installation issues.
+* Print and scan with the latest HP features.
+* Keep your printer secure with official software.
+* Enjoy a faster and smoother setup experience.
 
-**123.hp.com/setup** is HP's official website for setting up your printer. It lets you download the latest drivers and HP Smart software safely.
-
-Using the official setup page helps avoid outdated drivers and installation errors. It also improves compatibility with Windows, macOS, Android, and iPhone.
-
-The website automatically provides software that matches your HP printer model. This makes the installation process faster and easier.
-
-After installation, you can print, scan, update firmware, and manage your printer from one place using HP Smart.
-
-If you're installing a new printer or reinstalling an existing one, **123.hp.com/setup** is the recommended place to begin.
+Using the official HP setup page helps ensure your printer is installed correctly and performs reliably from the start.
 
 What You'll Need Before Installing Your HP Printer
 --------------------------------------------------
